@@ -37,13 +37,13 @@ git xxx -h
 
 Git工作区参考下图
 
-![](/image/git-file-status.png)
+![image](image/git-file-status.png)
 
 
 
 Git文件状态
 
-![](/image/git-file-status.png)
+![image](image/git-file-status.png)
 
 
 
