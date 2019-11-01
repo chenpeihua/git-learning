@@ -35,13 +35,19 @@ git xxx -h
 
 ## Git基本知识
 
+### 仓库
+
 Git工作区参考下图
 
-![image](image/git-file-status.png)
+![image](image/git-workspace.png)
 
 
 
-Git文件状态
+
+
+### Git文件状态
+
+Git管理的文件只有三种状态，已修改、已暂存、已提交，但为了更方便的讲解Git的文件变化，这里包含了未在Git管理的文件状态，如未跟踪状态，此外未修改状态和已提交状态实际是一样的，但只是文件所属工作区不一样。
 
 ![image](image/git-file-status.png)
 
